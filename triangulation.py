@@ -1,4 +1,4 @@
-# <Your name>
+# Rohan Prinja
 # COMP 776, Fall 2017
 # Assignment: Triangulation and Bundle Adjustment
 
@@ -27,5 +27,7 @@ def triangulate_points(keypoints1, keypoints2, P):
     #
     # TODO: Triangulate the correspondences
     #
+
+    assert P.shape == (3, 3)
 
     return points3D

@@ -1,4 +1,4 @@
-# <Your name>
+# Rohan Prinja
 # COMP 776, Fall 2017
 # Assignment: Triangulation and Bundle Adjustment
 
